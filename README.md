@@ -1,7 +1,7 @@
 # A02 – How to Use Git, WebStorm, and GitHub
 
-Author: _Your Name_ (UCID: _yourUCID_)  
-Course: _Course Name / Section_
+Author: Patrick Tadrous (UCID: Pst, GitHub: Pstadrous)  
+Course: IS 117-003 – Introduction to Website Development
 
 This tutorial walks a beginner through installing the tools, creating a **repository** on **GitHub**, editing it in WebStorm, and saving work back to **GitHub** with **Git**. Glossary words are bolded each time they are used; their definitions are in Part 2.
 
@@ -12,7 +12,7 @@ This tutorial walks a beginner through installing the tools, creating a **reposi
 ### Step 1 – Create a GitHub account
 
 1. Go to https://github.com/signup.
-2. Enter your email address, create a password, and choose a username. For this class, use your UCID as your username so your **repository** link looks like `https://github.com/yourUCID/A02`.
+2. Enter your email address, create a password, and choose a username. For this class, use your UCID as your username if it is available, so your **repository** link looks like `https://github.com/yourUCID/A02`. If your UCID is already taken, choose a similar name and tell your instructor.
 3. Verify your email address using the code **GitHub** sends you.
 4. (Recommended) Students can apply for free extras through the **GitHub** Student Developer Pack at https://education.github.com/pack (GitHub, n.d.-d).
 
